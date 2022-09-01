@@ -1,3 +1,4 @@
+-- Covid-Data Analysis From February 4, 2020. 
 SELECT *
 FROM PorfolioProject..CovidData
 WHERE continent IS NOT NULL
